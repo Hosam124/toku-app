@@ -4,11 +4,11 @@ Toku App is an intuitive and engaging mobile application designed to make learni
 
 ## Features
 
-- **Interactive Lessons**: Step-by-step lessons covering Hiragana, Katakana, and basic Kanji.
-- **Vocabulary Building**: Learn essential words and phrases for everyday conversation.
-- **Quizzes and Exercises**: Reinforce your learning with interactive quizzes and exercises.
+- **Colors**: Learn the names of colors in Japanese.
+- **Family Members**: Familiarize yourself with terms for family members.
+- **Numbers**: Master counting and numbers in Japanese.
+- **Common Phrases**: Learn essential phrases for everyday conversation.
 - **Audio Pronunciation**: Improve your listening and speaking skills with native speaker audio.
-- **Progress Tracking**: Monitor your learning progress and stay motivated.
 
 ## Getting Started
 
